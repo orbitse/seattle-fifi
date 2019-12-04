@@ -1,0 +1,78 @@
+{2013: neighborhood_name    fifi_category
+Delridge             Grafitti         196
+Capitol Hill         Grafitti         180
+                     Other            159
+University District  Grafitti         136
+Ravenna              Grafitti         106
+Broadway             Other            102
+                     Grafitti          91
+Central District     Grafitti          87
+                     Other             86
+Capitol Hill         Pothole           68
+dtype: int64, 2014: neighborhood_name  fifi_category
+Rainier Valley     Grafitti         362
+Capitol Hill       Other            340
+Ballard            Abnd_Vehicle     297
+Capitol Hill       Pothole          290
+Rainier Valley     Other            262
+Central District   Grafitti         242
+Roosevelt          Grafitti         223
+Mount Baker        Grafitti         221
+Broadway           Other            209
+West Woodland      Abnd_Vehicle     201
+dtype: int64, 2015: neighborhood_name  fifi_category
+Ballard            Abnd_Vehicle     845
+Capitol Hill       Other            531
+West Woodland      Abnd_Vehicle     513
+Ballard            Other            490
+                   Grafitti         449
+Rainier Valley     Other            430
+Broadway           Other            355
+Central District   Other            351
+Capitol Hill       Pothole          338
+Rainier Valley     Grafitti         338
+dtype: int64, 2016: neighborhood_name  fifi_category  
+Ballard            Abnd_Vehicle       1041
+Beacon Hill        Needles/Dumping     868
+Ballard            Other               796
+Rainier Valley     Needles/Dumping     710
+Ballard            Needles/Dumping     699
+                   Grafitti            656
+                   Parking             622
+Capitol Hill       Other               588
+West Woodland      Abnd_Vehicle        524
+Central District   Needles/Dumping     486
+dtype: int64, 2018: neighborhood_name    fifi_category  
+Ballard              Needles/Dumping    1438
+                     Other              1423
+                     Abnd_Vehicle       1403
+Northgate            Needles/Dumping    1295
+University District  Needles/Dumping    1196
+Beacon Hill          Needles/Dumping    1166
+Ballard              Parking            1099
+Rainier Valley       Needles/Dumping    1043
+West Woodland        Abnd_Vehicle        983
+Queen Anne           Other               932
+dtype: int64, 2017: neighborhood_name  fifi_category  
+Beacon Hill        Needles/Dumping    1075
+Rainier Valley     Needles/Dumping     998
+Ballard            Needles/Dumping     897
+Capitol Hill       Pothole             796
+Ballard            Other               775
+Queen Anne         Parking             708
+Central District   Needles/Dumping     708
+Capitol Hill       Grafitti            689
+Northgate          Needles/Dumping     682
+Delridge           Pothole             640
+dtype: int64, 2019: neighborhood_name  fifi_category  
+Ballard            Needles/Dumping    690
+                   Other              640
+Georgetown         Abnd_Vehicle       585
+Northgate          Needles/Dumping    563
+                   Other              505
+Ballard            Abnd_Vehicle       491
+                   Parking            425
+Capitol Hill       Other              425
+Beacon Hill        Needles/Dumping    411
+Queen Anne         Needles/Dumping    406
+dtype: int64}
